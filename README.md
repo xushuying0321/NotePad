@@ -1,7 +1,7 @@
 # NotePad
 ## 启动界面
 
-对软件添加了启动界面，使用timer进行延时处理，启动图目前只适配了16：9的素材。
+对软件添加了启动界面，使用timer进行延时处理，经过测试延时1500ms效果最好。
 ![启动界面](https://github.com/xushuying0321/NotePad/blob/master/img6.png)
 
 ## 笔记列表界面
@@ -14,7 +14,7 @@
 ![笔记编辑界面](https://github.com/xushuying0321/NotePad/blob/master/img8.png)
 
 ## 标题编辑界面
-更改了标题编辑的主题风格，与整体背景更搭。
+更改了标题编辑的主题风格偏白色，与整体背景更搭。
 ![笔记编辑界面](https://github.com/xushuying0321/NotePad/blob/master/img11.png)
 
 ## 笔记按标题搜索
